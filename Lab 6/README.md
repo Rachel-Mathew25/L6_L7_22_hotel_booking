@@ -14,3 +14,4 @@ A small Python module that works out hotel booking costs by room, season and gue
 | `test_hotel_booking.py` | Starter test file |
 
 Refer to the lab handout for instructions.
+Line coverage: 100% (14 tests passed)
