@@ -15,3 +15,4 @@ A small Python module that works out hotel booking costs by room, season and gue
 
 Refer to the lab handout for instructions.
 Line coverage: 100% (14 tests passed)
+Branch coverage: 100% (32 tests passed, 22/22 branches)
